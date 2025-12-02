@@ -1,0 +1,5 @@
+open terminal
+write:- use file name instead of file
+Python = python file.py (install python)
+C++  = g++ file.cpp -o file     (install minGW)
+Java  = javac file.java       install(java development kit)
